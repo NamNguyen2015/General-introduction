@@ -43,7 +43,7 @@ st.image(image, caption='The fastest way to build and share data apps')
 st.write('Streamlit is an open source app framework in Python. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy, NumPy, pandas, Matplotlib etc.')
 
 st.markdown("[Projectile Motion] (https://namnguyen2015-projectile-mot-220901-streamlit-projectile-8zn9wi.streamlitapp.com/) ")
-st.markdown("[Data Analysis](https://namnguyen2015-data-analysis-streamlit-data-analysis-ws79u1.streamlitapp.com/)")
+st.markdown("[Data Analysis] (https://namnguyen2015-data-analysis-streamlit-data-analysis-ws79u1.streamlitapp.com/)")
 
 st.write('**************************************')
 
