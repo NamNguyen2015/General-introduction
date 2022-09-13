@@ -26,9 +26,9 @@ path= os.getcwd()
 #%%
 st.title('General introduction')
 st.image("https://media-exp1.licdn.com/dms/image/C4E0BAQF-5O5stYOVnA/company-logo_200_200/0/1519880154681?e=2147483647&v=beta&t=JfMPNm2p8aQC7iHLqp8S4096lFDmShsodp8A73sRnWQ",width=100)
-st.header('Company: CFC.SL' )
-st.markdown("**Pedram Manouchehri** ")
+st.header('Company: CFC, S.L.' )
 st.markdown("**Nam Nguyen** ")
+st.markdown("**Pedram Manouchehri** ")
   
 st.write('**************************************')
 
